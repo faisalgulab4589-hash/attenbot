@@ -7,6 +7,7 @@ import android.graphics.Color;
 import android.net.*;
 import android.net.wifi.WifiManager;
 import android.os.*;
+import android.provider.Settings;
 import android.webkit.*;
 import android.util.Log;
 import androidx.core.app.NotificationCompat;
